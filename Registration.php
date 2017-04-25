@@ -3,9 +3,9 @@
 /* Server Name  */
 	$DB_HOST = "localhost";
 /* Account Name */
-        $DB_USER = "root";
+        $DB_USER = "";
 /* Password */
-        $DB_PASS = "786Diana";
+        $DB_PASS = "";
 /* Database Name */
         $DB_NAME = "Google";
 /* Connect to Database */
